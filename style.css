@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+
+.down-section {
+    background-color: #fff8db;
+}
+
+.footer-section-paragraph {
+    font-size: 20px;
+    font-family: "Caveat";
+
+}
+
+.footer-section-heading {
+    font-weight: bold;
+    font-family: "Caveat";
+
+
+
+}
+
+.banner-section-heading {
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.img2 {
+    transition: transform 1, 10s;
+}
+
+.img2:hover {
+    transform: translateX(5px);
+}
+
+.title {
+    position: relative;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.title:after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 4px;
+    background-color: #f26a3d;
+    border-radius: 4px;
+}
+
+.icon {
+    color: white;
+    background: #FFE500;
+
+}
+
+.icon1 {
+    color: #FFE500;
+}
+
+.product-heading {
+    padding-top: 10px;
+    font-family: "Caveat";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.img1 {
+    border-radius: 10px;
+}
+
+.red-logo {
+    width: 70px;
+    height: 50px;
+}
+
+.navbar1 {
+    background-color: #F9CCCA;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+.paragraph {
+    color: black;
+    font-size: 20px;
+
+}
+
+boby {
+    font-family: "Roboto";
+}
+
+.banner-section {
+
+    background-image: linear-gradient(#FFF, #F9CCCA);
+
+
+
+
+
+
+}
